@@ -1,0 +1,10 @@
+h1, p{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    margin-top: 25%;
+}
